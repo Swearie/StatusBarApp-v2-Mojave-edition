@@ -1,4 +1,4 @@
-![TITLE](https://github.com/Swearie/StatusBarApp-v2-Mojave-edition/blob/master/sbamd.png?raw=true)
+![TITLE](https://github.com/Swearie/StatusBarApp-v2-Mojave-edition/blob/master/sbamd_dynamic.png)
 
 # StatusBarApp-v2-Mojave-edition
 New icons for better look on macOS Mojave DarkMode
