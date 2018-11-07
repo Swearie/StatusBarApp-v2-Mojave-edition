@@ -18,3 +18,5 @@ Feel free to contribute as you like!
 
 # Coming Soon! ⬇️
 Soon I'll upload specific icons for light bar and dark bar in two separate releases ;)
+
+Will also support [WIFI-Network-macOS-High-Sierra](https://github.com/chris1111/WIFI-Network-macOS-High-Sierra) icons.
