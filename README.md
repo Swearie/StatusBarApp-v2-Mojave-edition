@@ -14,3 +14,7 @@ You just have to copy the content of the extracted zip file in
 This will also install Italian language for the app.
 
 Feel free to contribute as you like!
+
+
+# Coming Soon! ⬇️
+Soon I'll upload specific icons for light bar and dark bar in two separate releases ;)
